@@ -1,6 +1,6 @@
 Привет, меня зовут Андрей !
 
-![Foto](assets/Screenshot_1.png")
+![Foto](https://github.com/reyderas/MyReadme/blob/main/assets/Screenshot_1.png)
 
 Я студент курса Нетологии по профессии Fullstack-разработчик на Python пройденные модули :
 
